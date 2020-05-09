@@ -1,0 +1,13 @@
+<mamelayout version="2">
+	<element name="bezel">
+		<image file="vsmile_bezel.png" />
+	</element>
+	<view name="Upright_Artwork">
+		<screen index="0">
+			<bounds x="340" y="71" width="1241" height="930" />
+		</screen>		
+		<bezel element="bezel">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</bezel>
+	</view> 
+</mamelayout>

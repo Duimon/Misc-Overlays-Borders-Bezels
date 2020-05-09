@@ -1,0 +1,16 @@
+<mamelayout version="2">
+	<element name="bezel">
+		<image file="SSM32_bezel.png" />
+	</element>
+	<view name="Playchoice_Artwork">
+		<screen index="1">
+			<bounds x="971" y="196" width="923" height="688" />
+		</screen>
+		<screen index="0">
+			<bounds x="26" y="196" width="923" height="688" />
+		</screen>		
+		<bezel element="bezel">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</bezel>
+	</view> 
+</mamelayout>

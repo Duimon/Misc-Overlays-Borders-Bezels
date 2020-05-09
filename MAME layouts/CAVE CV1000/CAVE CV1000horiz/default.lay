@@ -1,0 +1,13 @@
+<mamelayout version="2">
+	<element name="bezel">
+		<image file="cave_horiz.png" />
+	</element>
+	<view name="Upright_Artwork">
+		<screen index="0">
+			<bounds x="280" y="34" width="1360" height="1012" />
+		</screen>		
+		<bezel element="bezel">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</bezel>
+	</view> 
+</mamelayout>

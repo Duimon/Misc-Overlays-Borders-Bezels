@@ -1,0 +1,19 @@
+<mamelayout version="2">
+	<element name="bezel">
+		<image file="sharp_x68000_art.png" />
+	</element>
+	<element name="access_led">
+		<image file="sharp_x68000_led_on.png" />
+	</element>
+	<view name="Horizontal_Artwork">
+		<screen index="0">
+			<bounds x="287" y="43" width="1346" height="995" />
+		</screen>
+		<bezel element="bezel">
+			<bounds x="0" y="0" width="1920" height="1080" />
+		</bezel>
+		<bezel name="access_drv0" element="access_led">
+			<bounds x="80" y="560" width="11" height="11" />
+		</bezel>
+	</view> 
+</mamelayout>
