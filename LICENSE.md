@@ -1,6 +1,3 @@
-# Misc-Overlays-Borders-Bezels
-Misc stuff I've done that doesn't quite fit with current projects but, may interest some few ;-)
-
 ### LICENSE
 *******************
 All the assets, including documentation and code, are published under the 'Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)' Creative Commons license.
